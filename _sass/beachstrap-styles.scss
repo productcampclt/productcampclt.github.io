@@ -347,6 +347,11 @@ nav{
 		font-size:1.2em;
 	}
 	h1 { line-height:42px;}
+
+	li {
+		padding:0 20px;
+		&:hover {opacity:0.9;}
+	}
 }
 
 /* ========== EVENT INFO =========== */
