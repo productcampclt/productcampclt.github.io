@@ -329,6 +329,19 @@ nav a:hover, nav a.active {
   opacity: 0.9;
 }
 
+.sponsor-home {
+  margin-bottom: 30px;
+}
+.sponsor-home a {
+  font-size: 1.3em;
+  font-weight: 900;
+  margin-top: 48px;
+  vertical-align: middle;
+}
+.sponsor-home h2 {
+  margin-bottom: 1.3em;
+}
+
 /* ========== EVENT INFO =========== */
 #map_canvas {
   width: 100%;
