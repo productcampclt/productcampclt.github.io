@@ -887,6 +887,13 @@ footer .social-icons a:hover {
     padding-bottom: 80px;
   }
 
+  .sponsor-home {
+    text-align: center;
+  }
+  .sponsor-home h1 {
+    margin-top: 12px;
+  }
+
   #what_is_pcamp {
     top: 20px;
     padding-bottom: 20px;
