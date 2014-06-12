@@ -334,6 +334,8 @@ nav a:hover, nav a.active {
 }
 
 .sponsor-home {
+  border-top: 1px solid #ddd;
+  padding-top: 30px;
   margin-bottom: 30px;
 }
 .sponsor-home a {
