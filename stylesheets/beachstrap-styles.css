@@ -3,6 +3,10 @@ Author: Mammoth-Interactive
 Description: Beachstrap theme styles
 Date: 31 October 2013 (Happy halloween!)
 */
+#foo {
+  text-align: left;
+}
+
 /* Table of Contents
 ==================================================
 
@@ -395,6 +399,14 @@ nav a:hover, nav a.active {
 }
 
 /* ================== WHAT IS PCAMP =======================*/
+.session_proposals h3 {
+  margin-bottom: 6px;
+}
+
+.session_proposals {
+  top: 30px !important;
+}
+
 .spread {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -702,6 +714,12 @@ footer .social-icons a:hover {
 }
 
 /* ==================================== MEDIA QUERIES ==================================== */
+@media (min-width: 991px) {
+  #foo {
+    font-size: 3.5em !important;
+    line-height: 52px;
+  }
+}
 @media (max-width: 1200px) {
   header h1#logo {
     background-size: 100%;
